@@ -1,1 +1,9 @@
 *.xml
+*.iml
+
+/.idea/*
+/.idea
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/Go-Leedcode.iml
+/.idea/modules.xml
