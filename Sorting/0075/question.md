@@ -1,7 +1,8 @@
-Difficulty: Medium  
-TimeComplexity: O(n)  
-SpaceComplexity: O(1)  
+# Sort Colors
 
+Difficulty: Medium
+TimeComplexity: O(n)  
+SpaceComplexity: O(1)
 
 Question:
 ---

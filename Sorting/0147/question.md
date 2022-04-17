@@ -1,4 +1,5 @@
-Difficulty: Medium  
+# 	Insertion Sort List
+Difficulty: Medium
 TimeComplexity: O(n^2)  
 SpaceComplexity: O(1)  
 
